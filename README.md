@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repo
 by
-Akash kumar
+Akash kumar Gupta
